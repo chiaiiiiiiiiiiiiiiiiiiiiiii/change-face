@@ -30,11 +30,7 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](3.jpg) 
 也可以在頂部選單中找到“代碼執行程序”-> “全部運行” ，這樣就可以一鍵運行了！ 
 
-![image](c1.jpg) 
-![image](c2.jpg) 
-![image](c3.jpg) 
-![image](c4.jpg) 
-![image](c5.jpg) 
+
 
 
 
