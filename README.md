@@ -1,7 +1,6 @@
 # 使用Google Colaboratory跑深度學習 
 南華大學 跨領域-人工智慧期中報告  
-11024201 趙青益  
-11024114 翁莊堡 
+11124112 林郁翔
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GsWIS-K8d71gy1TrlDoSyiyLweAEpLDv)
 
@@ -31,11 +30,11 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
 也可以在頂部選單中找到“代碼執行程序”-> “全部運行” ，這樣就可以一鍵運行了！ 
 
-![image](c1.png) 
-![image](c2.png) 
-![image](c3.png) 
-![image](c4.png) 
-![image](c5.png) 
+![image](1.jpg) 
+![image](2.jpg) 
+![image](3.jpg) 
+![image](4.jpg) 
+![image](5.jpg) 
 
 
 
